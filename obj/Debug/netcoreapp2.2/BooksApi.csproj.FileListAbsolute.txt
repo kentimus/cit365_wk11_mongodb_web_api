@@ -1,0 +1,16 @@
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.deps.json
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.json
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.runtimeconfig.dev.json
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.csprojAssemblyReference.cache
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cache
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorAssemblyInfo.cs
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfoInputs.cache
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.AssemblyInfo.cs
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.RazorTargetAssemblyInfo.cache
+C:\Users\kent\source\repos\BooksApi\bin\Debug\netcoreapp2.2\BooksApi.pdb
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.dll
+C:\Users\kent\source\repos\BooksApi\obj\Debug\netcoreapp2.2\BooksApi.pdb
